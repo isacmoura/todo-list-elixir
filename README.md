@@ -1,6 +1,6 @@
 # TodoList
 
-**TODO: Add description**
+**TODO: a todo list application with basic operations made with Elixir**
 
 ## Installation
 
@@ -18,5 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/todo_list](https://hexdocs.pm/todo_list).
-
-# todo_list_elixir
